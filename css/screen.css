@@ -4,7 +4,8 @@ html {
   line-height: 1.5;
   font-family: 'Helvetica Neue', Helvetica, arial, sans-serif;
   color: #111;
-  padding: 24px 24px 0;
+  padding: 48px 24px 24px;
+  scroll-behavior: smooth;
 }
 body {
   max-width: 42em;
